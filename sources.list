@@ -1,0 +1,20 @@
+# 
+
+# deb cdrom:[Ubuntu-Server 14.04.1 LTS _Trusty Tahr_ - Release amd64 (20140722.3)]/ trusty main restricted
+
+#deb cdrom:[Ubuntu-Server 14.04.1 LTS _Trusty Tahr_ - Release amd64 (20140722.3)]/ trusty main restricted
+
+# See http://help.ubuntu.com/community/UpgradeNotes for how to upgrade to
+# newer versions of the distribution.
+
+deb  http://mirror.tfs.com/ubuntu/ trusty main restricted universe multiverse
+deb  http://mirror.tfs.com/ubuntu/ trusty-updates main restricted universe multiverse
+deb  http://mirror.tfs.com/ubuntu/ trusty-backports main restricted universe multiverse
+deb  http://mirror.tfs.com/ubuntu/ trusty-security main restricted universe multiverse
+
+
+# deb-src file:///var/spool/apt-mirror/mirror/archive.ubuntu.com/ubuntu/ trusty main restricted universe multiverse
+# deb-src file:///var/spool/apt-mirror/mirror/archive.ubuntu.com/ubuntu/ trusty-updates main restricted universe multiverse
+# deb-src file:///var/spool/apt-mirror/mirror/archive.ubuntu.com/ubuntu/ trusty-backports main restricted universe multiverse
+# deb-src file:///var/spool/apt-mirror/mirror/archive.ubuntu.com/ubuntu/ trusty-security main restricted universe multiverse
+
